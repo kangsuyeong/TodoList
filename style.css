@@ -40,3 +40,28 @@ body{
     justify-content: space-between;
     padding : 1em;
 }
+
+.task-done{
+    text-decoration: line-through;
+    background-color: gray;
+    width: 80%;
+}
+
+.check-button{
+    color: green;
+    background-color: white;
+    border : none;
+}
+
+.check-button2{
+    color: gray;
+    background-color: white;
+    border : none;
+}
+
+.delete-button{
+    color: red;
+    background-color: white;
+    border : none;
+}
+
